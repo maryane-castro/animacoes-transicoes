@@ -1,0 +1,3 @@
+SlideShow, uma animação como a de passar slides
+Video usado como inspiração:
+    https://www.youtube.com/watch?v=zxqGOgsgUtk&t=442s

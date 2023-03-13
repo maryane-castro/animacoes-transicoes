@@ -12,5 +12,9 @@
 
     para imagens/animações em svg
     <a href="https://lottiefiles.com">Animate Style</a>
+
+
+    bordas não lineares
+    https://9elements.github.io/fancy-border-radius/
     
 
